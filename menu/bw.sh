@@ -200,7 +200,7 @@ exit
 ;;
 *)
 echo -e ""
-echo -e "EREN YEAGER"
+echo -e "YEASIN"
 sleep 1
 bw
 ;;
