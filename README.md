@@ -26,7 +26,7 @@
 - (Recommendation) Ubuntu 18 / 20 LTS (STABLE to use)
 <br>
 
-# Cloudflare settings for those who have their own Domain, you can check at folder [image](https://github.com/yeasin9090/AUTO-SCRIPT/tree/master/image) to display other settings
+# Cloudflare settings for those who have their own Domain, you can check at folder [image](https://github.com/Yeasin9090/AUTO-SCRIPT/blob/master/Image) to display other settings
 <br>
 - SSL/TLS : FULL<br>
 - SSL/TLS Recommender : OFF<br>
@@ -37,7 +37,7 @@
 <br>
 
 # Pointing
-![Pointing](https://github.com/yeasin9090/AUTO-SCRIPT/blob/master/image/pointing.png)
+![Pointing](https://github.com/Yeasin9090/AUTO-SCRIPT/blob/master/Image/pointing.png)
 
 ## Service & Port:
 <br>
@@ -79,10 +79,10 @@
 - Optional [install Bot Telegram Xolpanel](https://github.com/yeasin9090/AUTO-SCRIPT/tree/master/bot%20telegram%20panel) by [XolvaID](https://github.com/XolvaID)
   
 # Menu
-![Service Status](https://github.com/yeasin9090/AUTO-SCRIPT/blob/master/image/menu1.png)
+![Service Status](https://github.com/Yeasin9090/AUTO-SCRIPT/blob/69600d54acf8e19ad5b9d5ccfeebae5c2cd2a6bc/Image/menu1.png)
 
 # Service Status
-![Service Status](https://github.com/yeasin9090/AUTO-SCRIPT/blob/master/image/service1.png)
+![Service Status](https://github.com/Yeasin9090/AUTO-SCRIPT/blob/69600d54acf8e19ad5b9d5ccfeebae5c2cd2a6bc/Image/service1.png)
 
 # [Step Install]
 - Step 1 for (debian) please update first
@@ -96,7 +96,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 
 # Telegram
 [![Telegram-chat](https://img.shields.io/badge/Chat-Telegram-blue)](https://t.me/Yeasin15/)
-[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/+1p9RnexGMP0yOGVl/)
+[![Telegram-grup](https://img.shields.io/badge/Grup-Telegram-blue)](https://t.me/yeasin15/)
 
 # ATTENTION (MUST READ) CAREFULLY
 - PROHIBITED FOR SALE BECAUSE I GET FREE FROM THE INTERNET
