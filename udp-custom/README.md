@@ -6,6 +6,6 @@
 apt update && apt install wget -y && wget -qO- -O udp.sh "https://raw.githubusercontent.com/yeasin9090/AUTO-SCRIPT/master/udp-custom/udp.sh" && chmod +x udp.sh && ./udp.sh
 ```
 - NS Pointing
-![Service Status](https://github.com/yeasin9090/AUTO-SCRIPT/blob/ef620c03d534b8c93a5d775648a986332e138dda/udp-custom/slowdns/nspointing.png)
+![Service Status](https://github.com/Yeasin9090/AUTO-SCRIPT/blob/9539ce1c1bc4806f524d5fa1c0d5c9c2dc91574f/udp-custom/slowdns/nspointing.png)
 
 
