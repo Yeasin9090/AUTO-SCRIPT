@@ -74,8 +74,8 @@
 - no auto backup? which... is permanently removed
 - Just accept the existing features / you can add them yourself manually
 - Additional Features (Optional) skipper (NOTE) install after [Step Install] is complete
-- Optional [install OpenVPN + Slowdns +](https://github.com/yeasin9090/AUTO-SCRIPT/tree/master/udp-custom) UDP-Custom by [Exe302](https://gitlab.com/Exe302) + Slowdns by [SL](https://github.com/fisabiliyusri)
-- Optional [install Panel Webmin + ADS Block](https://github.com/yeasin9090/AUTO-SCRIPT/tree/master/helium) Helium version 3.0 by [Abi Darwish](https://github.com/abidarwish)
+- Optional [install OpenVPN + Slowdns +](https://github.com/Yeasin9090/AUTO-SCRIPT/tree/56c02f8796aede67b8ede569dad37cdc24753382/udp-custom) UDP-Custom by [Exe302](https://gitlab.com/Exe302) + Slowdns by [SL](https://github.com/fisabiliyusri)
+- Optional [install Panel Webmin + ADS Block](https://github.com/yeasin9090/AUTO-SCRIPT/tree/master/Helium) Helium version 3.0 by [Abi Darwish](https://github.com/abidarwish)
 - Optional [install Bot Telegram Xolpanel](https://github.com/yeasin9090/AUTO-SCRIPT/tree/master/bot%20telegram%20panel) by [XolvaID](https://github.com/XolvaID)
   
 # Menu
