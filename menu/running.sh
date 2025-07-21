@@ -194,7 +194,7 @@ kernelku=$(uname -r)
 
 # DNS PATCH
 #tipeos2=$(uname -m)
-Name=$"Yeasin "
+Name=$"YEASIN"
 Exp=$"LIFETIME FREE"
 # GETTING DOMAIN NAME
 Domen="$(cat /etc/xray/domain)"
